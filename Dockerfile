@@ -1,4 +1,4 @@
-FROM ghcr.io/logscale-contrib/image-logscale-base/container:1.0.3
+FROM ghcr.io/logscale-contrib/image-logscale-base/container:1.0.4
 
 #
 # Pull Zulu OpenJDK binaries from official repository:
