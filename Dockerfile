@@ -1,4 +1,4 @@
-FROM ghcr.io/logscale-contrib/image-logscale-base/container:1.0.2
+FROM ghcr.io/logscale-contrib/image-logscale-base/container:1.0.3
 
 
 #
